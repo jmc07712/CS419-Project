@@ -1,0 +1,8 @@
+lib/c-ctype.o: lib/c-ctype.c lib/config.h lib/c-ctype.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.1/include/stdbool.h
+
+lib/config.h:
+
+lib/c-ctype.h:
+
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.1/include/stdbool.h:
