@@ -4964,10 +4964,8 @@ static u8 fuzz_one(char** argv) {
        possibly skip to them at the expense of already-fuzzed or non-favored
        cases. */
 
-    /* if ((queue_cur->was_fuzzed || !queue_cur->favored) &&
-        UR(100) < SKIP_TO_NEW_PROB) return 1; */
-
-    if ((queue_cur->was_fuzzed || !queue_cur->favored)) return 1;
+    if ((queue_cur->was_fuzzed || !queue_cur->favored) &&
+        UR(100) < SKIP_TO_NEW_PROB) return 1;
 
   } else if (!dumb_mode && !queue_cur->favored && queued_paths > 10) {
 
