@@ -1,0 +1,1 @@
+GNU C11 7.5.0 -mtune=generic -march=x86-64 -g -g -O2 -O3 -funroll-loops -fstack-protector-strong

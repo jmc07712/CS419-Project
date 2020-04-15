@@ -1,0 +1,1 @@
+-w, --wrap=COLS       wrap encoded lines after COLS character (default 76).
