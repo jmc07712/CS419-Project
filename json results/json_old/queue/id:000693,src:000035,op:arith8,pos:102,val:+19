@@ -1,0 +1,6 @@
+{
+    "JTest Pattern pass3": {
+        "The outermost value": "must be an object or array.",
+        "\n this test": "It is an object."
+    }
+}

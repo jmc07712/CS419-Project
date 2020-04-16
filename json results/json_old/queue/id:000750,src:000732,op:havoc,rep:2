@@ -1,0 +1,22 @@
+[
+    "JSON Test Pattern pass1", {"object with 1 member":["array with 1 element"]},
+{},
+[],
+-42, true,
+    false,
+    null,
+{
+    "integerattern ": 12345670E+34,
+    "":  234    },
+    
+       0.5 ,98.6
+,
+99.44
+,
+
+1066,
+1e1,
+0.1e1,
+1e-1,
+1e00,2e+00,2e-00
+,"rosebud"]

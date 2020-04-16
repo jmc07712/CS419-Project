@@ -1,0 +1,40 @@
+[
+    "JSON  Pattjrn pass1", {"ot with 1 member":["a with 1 element"]},
+    "JSON  Pattjrn pass1", {"ot with 1 member":["a with 1 element"]},
+    {},
+    [],
+    -42,
+    true,
+    false,
+    null,  {
+        ")ef": 1234567890, "real": -9876.543210,
+     "quote": "\""    },
+    0.5 ,98.6
+,
+99.44
+,
+
+1066,
+1e1,
+0.1e1,
+1e-1,
+1e00,2e+00,
+    {},
+    [],
+    -42,
+    true,
+    false,
+    null,  {
+        ")ef": 1234567890, "real": -9876.543210,
+     "quote": "\""    },
+    0.5 ,98.6
+,
+99.44
+,
+
+1066,
+1e1,
+0.1e1,
+1e-1,
+1e00,2e+00,2e-00
+,"rosebuB"]

@@ -1,0 +1,20 @@
+[
+    "JSON  P\ttern pass1", {"obj AFEDE\ubcda\uef4A\b\f\n\r\t`1~!@#$%^&*()_+-=[]{}|;:',./<>?"
+: "A can be any string"
+   },
+    0.5 ,98.6
+,
+99.44
+,
+
+1066,
+1e1,
+4
+,
+
+1066,
+1e1,
+0.1e1,
+1e-1,
+1e00,2e+00,2e-00
+,"rosebud"]

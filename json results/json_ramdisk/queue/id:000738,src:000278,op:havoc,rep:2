@@ -1,0 +1,35 @@
+[
+    "JSON Test Pattern pass1", {"object with 1 member":["array with 1 element"]},
+    {},
+    [],
+    -42,
+    true,
+    false,
+    null,
+    {
+        ")nteger": 1234567890,
+        "real": -9876.543210,
+        "e": 789e-12, "E": 1.234567890E+34,
+        "":  23456789012E66,
+        "zero": 0,
+        "one": 1,
+        "space": " ",
+        "quote": "\"",
+        "backslash": "\\",
+        "controls": "\b\f\n\r\t",
+        "slash": "/ & \/",
+        "alpha": "abcdefghijklmnopqrstuvwyz",
+        "AL~!@#$%^&*()_+-=[]{}|;:',./<>?"
+: "A key can be any string"
+    },
+    0.5 ,98.6
+,
+99.44
+,
+
+1066,
+1e1,
+0.1e1,
+1e-1,
+1e00,2e+00,2e-00
+,"rosebud"]
